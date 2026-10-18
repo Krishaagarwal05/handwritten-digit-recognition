@@ -27,3 +27,10 @@ This project recognizes handwritten digits (0–9) using a neural network traine
 
 ## Project Purpose
 This project was developed to learn machine learning, neural networks, and image classification.
+## Project Screenshots
+
+### Screenshot 1
+![Project Screenshot 1](Screenshot%202026-10-19%20015309.png)
+
+### Screenshot 2
+![Project Screenshot 2](Screenshot%202026-10-19%20015417.png)
